@@ -25,7 +25,7 @@ This Power BI dashboard provides insights into revenue, cost, and contribution m
 ### 🛠️ Tools & Technologies  
 - **Power BI** for visualization and data analysis  
 - **DAX & Power Query** for data transformation  
-- **Excel/Firebase (or other sources)** as the data backend  
+- **Excel** as the data backend  
 
 ### 🖼️ Screenshots  
 #### Dashboard Overview  
@@ -35,12 +35,12 @@ This Power BI dashboard provides insights into revenue, cost, and contribution m
 ![Revenue vs Cost](screenshots/Trend.png)  
 
 #### Contribution Margin Trend  
-![Contribution Margin Trend](screenshots/contribution_margin_trend.png)  
+![Contribution Margin Trend](screenshots/Contribution.png)  
 
 ### 🚀 How to Use  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/your-username/repo-name.git  
+   git clone https://github.com/ManuCodeX/BDE-Sales-Profitability.git  
    ```  
 2. Open the Power BI file (`.pbix`) and connect it to your data source.  
 3. Customize filters and explore the visual insights.  
