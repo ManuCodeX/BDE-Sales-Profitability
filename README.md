@@ -14,10 +14,13 @@ This Power BI dashboard provides insights into revenue, cost, and contribution m
 ### 📈 Features  
 - **Revenue vs Cost Analysis:**  
   - Line chart comparing revenue and cost fluctuations.  
+  - Insight: A sharp spike in revenue is observed at the beginning of the year, followed by stabilization.  
 - **Monthly Revenue to Cost Comparison:**  
   - Bar chart visualizing revenue and cost per month.  
+  - Insight: March recorded the highest revenue, significantly exceeding costs, while other months show relatively stable trends.  
 - **Contribution Margin Trend:**  
   - Line graph displaying margin trends over time.  
+  - Insight: The contribution margin peaked in March at **35%**, while January and May had negative margins.  
 - **Custom Filters:**  
   - Year and month selectors for dynamic analysis.  
   - Option to toggle different business types (Life Time Base, Same Year, Stand-alone).  
@@ -35,7 +38,7 @@ This Power BI dashboard provides insights into revenue, cost, and contribution m
 ![Revenue vs Cost](screenshots/Trend.png)  
 
 #### Contribution Margin Trend  
-![Contribution Margin Trend](screenshots/Contribution.png)  
+![Contribution Margin Trend](screenshots/Contributions.png)  
 
 ### 🚀 How to Use  
 1. Clone this repository:  
