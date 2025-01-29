@@ -29,10 +29,10 @@ This Power BI dashboard provides insights into revenue, cost, and contribution m
 
 ### 🖼️ Screenshots  
 #### Dashboard Overview  
-![Dashboard Overview](screenshots/dashboard_overview.png)  
+![Dashboard Overview](screenshots/Overview.png)  
 
 #### Revenue vs Cost  
-![Revenue vs Cost](screenshots/revenue_vs_cost.png)  
+![Revenue vs Cost](screenshots/Trend.png)  
 
 #### Contribution Margin Trend  
 ![Contribution Margin Trend](screenshots/contribution_margin_trend.png)  
